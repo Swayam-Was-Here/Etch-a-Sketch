@@ -1,1 +1,1 @@
-# Etch-a-Sketch
+Hey man, this is a small and simple project to practice HTML,CSS, and vanilla JavaScript.
